@@ -1,0 +1,8 @@
+{
+    "version": 3,
+    "file": "1.js",
+    "sourceRoot": "",
+    "sources": ["../1.ts"],
+    "names": [],
+    "mappings": ";AAAA,CAAC,SAAS,QAAQ;IACd,OAAO,CAAC,GAAG,CAAC,aAAa,CAAC,CAAA;AAC9B,CAAC,CAAC,CAAA"
+}
